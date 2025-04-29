@@ -414,7 +414,7 @@ const SpecificationDocument: FC = () => {
                               Firestore/Posts -{">"} list of posts, where each post has a userID, image, etc.<br></br>
                               Cloudinary -{">"} Storage of images<br></br>
                               Firebase/auth -{">"} Authentication and basic user data (ID, name password, etc)<br></br>
-                              Firstore/Users -{">"} extended users data, has the user's images, Friends, etc.
+                              Firstore/Users -{">"} extended users data, has the user{"'"}s images, Friends, etc.
                             </p>
                           </div>
                         </div>
